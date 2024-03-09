@@ -3,6 +3,7 @@
     "title": "contoh next-intl",
     "description": "Selamat datang di contoh Next.js Internationalization (i18n)! Demo ini memperlihatkan kekuatan App Router dan cara mengelola konten multibahasa dengan lancar menggunakan next-intl."
   },
+
   "AboutPage": {
     "title": "no",
     "description": "Sela"
@@ -12,7 +13,11 @@
     "description": "Ups! Sepertinya Anda menemukan halaman yang tidak ada. Jangan khawatir, sihir internasionalisasi kami masih bekerja keras di bagian lain aplikasi. Silakan kembali untuk menjelajahi lebih lanjut!"
   },
   "Navigation": {
-    "home": "Beranda"
+    "clientPage": "klant pagina",
+    "serverPage": "server pagina",
+    "middlewareProtected": "beveiligde pagina",
+    "SignOut": "afmelden",
+    "SignIn": "Inloggen"
   },
   "Footer": {
     "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
